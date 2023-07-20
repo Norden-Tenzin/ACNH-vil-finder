@@ -1,0 +1,3719 @@
+[
+    {
+        "poster": "https://dodo.ac/np/images/9/91/Ace_amiibo.png",
+        "name": "Ace",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "August 11",
+        "catchphrase": "ace"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ed/Admiral_NH.png/150px-Admiral_NH.png",
+        "name": "Admiral",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "January 27",
+        "catchphrase": "aye aye"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a7/Agent_S_NH.png/150px-Agent_S_NH.png",
+        "name": "Agent S",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "July 2",
+        "catchphrase": "sidekick"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/4e/Agnes_NH_Transparent.png/150px-Agnes_NH_Transparent.png",
+        "name": "Agnes",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "April 21",
+        "catchphrase": "snuffle"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c4/Al_NH.png/150px-Al_NH.png",
+        "name": "Al",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 18",
+        "catchphrase": "ayyyeee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e4/Alfonso_NH.png/150px-Alfonso_NH.png",
+        "name": "Alfonso",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "June 9",
+        "catchphrase": "it'sa me"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e1/Alice_NH.png/150px-Alice_NH.png",
+        "name": "Alice",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "August 19",
+        "catchphrase": "guvnor"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8e/Alli_NH.png/150px-Alli_NH.png",
+        "name": "Alli",
+        "species": "Alligator",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 8",
+        "catchphrase": "graaagh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ab/Amelia_NH.png/150px-Amelia_NH.png",
+        "name": "Amelia",
+        "species": "Eagle",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 19",
+        "catchphrase": "cuz"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d8/Anabelle_NH.png/150px-Anabelle_NH.png",
+        "name": "Anabelle",
+        "species": "Anteater",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "February 16",
+        "catchphrase": "snorty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ea/Anchovy_NH.png/150px-Anchovy_NH.png",
+        "name": "Anchovy",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "March 4",
+        "catchphrase": "chuurp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5f/Angus_NH.png/150px-Angus_NH.png",
+        "name": "Angus",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "April 30",
+        "catchphrase": "macmoo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/80/Anicotti_NH.png/150px-Anicotti_NH.png",
+        "name": "Anicotti",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "February 24",
+        "catchphrase": "cannoli"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/56/Ankha_NH.png/150px-Ankha_NH.png",
+        "name": "Ankha",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 22",
+        "catchphrase": "me meow"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f0/Annalisa_NH.png/150px-Annalisa_NH.png",
+        "name": "Annalisa",
+        "species": "Anteater",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "February 6",
+        "catchphrase": "gumdrop"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c4/Annalise_NH.png/150px-Annalise_NH.png",
+        "name": "Annalise",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 2",
+        "catchphrase": "nipper"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d4/Antonio_NH.png/150px-Antonio_NH.png",
+        "name": "Antonio",
+        "species": "Anteater",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "October 20",
+        "catchphrase": "honk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0e/Apollo_NH_Transparent.png/150px-Apollo_NH_Transparent.png",
+        "name": "Apollo",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 4",
+        "catchphrase": "pah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/57/Apple_NH.png/150px-Apple_NH.png",
+        "name": "Apple",
+        "species": "Hamster",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "September 24",
+        "catchphrase": "cheekers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d5/Astrid_NH.png/150px-Astrid_NH.png",
+        "name": "Astrid",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 8",
+        "catchphrase": "my pet"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1b/Audie_NH.png/150px-Audie_NH.png",
+        "name": "Audie",
+        "species": "Wolf",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "August 31",
+        "catchphrase": "foxtrot"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c6/Aurora_NH_Transparent.png/150px-Aurora_NH_Transparent.png",
+        "name": "Aurora",
+        "species": "Penguin",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "January 27",
+        "catchphrase": "b-b-baby"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cc/Ava_NH.png/150px-Ava_NH.png",
+        "name": "Ava",
+        "species": "Chicken",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "April 28",
+        "catchphrase": "beaker"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/dd/Avery_NH.png/150px-Avery_NH.png",
+        "name": "Avery",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "February 22",
+        "catchphrase": "skree-haw"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/09/Axel_NH.png/150px-Axel_NH.png",
+        "name": "Axel",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "March 23",
+        "catchphrase": "WHONK"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ef/Azalea_amiibo.png/102px-Azalea_amiibo.png",
+        "name": "Azalea",
+        "species": "Rhinoceros",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 18",
+        "catchphrase": "merci"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/81/Baabara_NH_Transparent.png/150px-Baabara_NH_Transparent.png",
+        "name": "Baabara",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "March 28",
+        "catchphrase": "daahling"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2b/Bam_NH.png/150px-Bam_NH.png",
+        "name": "Bam",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "November 7",
+        "catchphrase": "kablang"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/68/Bangle_NH.png/150px-Bangle_NH.png",
+        "name": "Bangle",
+        "species": "Tiger",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "August 27",
+        "catchphrase": "growf"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9d/Barold_NH.png/150px-Barold_NH.png",
+        "name": "Barold",
+        "species": "Cub",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "March 2",
+        "catchphrase": "cubby"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c2/Bea_NH.png/150px-Bea_NH.png",
+        "name": "Bea",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "October 15",
+        "catchphrase": "bingo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c0/Beardo_NH.png/150px-Beardo_NH.png",
+        "name": "Beardo",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "September 27",
+        "catchphrase": "whiskers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d4/Beau_NH.png/150px-Beau_NH.png",
+        "name": "Beau",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "April 5",
+        "catchphrase": "saltlick"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/74/Becky_NH.png/150px-Becky_NH.png",
+        "name": "Becky",
+        "species": "Chicken",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 9",
+        "catchphrase": "chicklet"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c0/Bella_NH.png/150px-Bella_NH.png",
+        "name": "Bella",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "December 28",
+        "catchphrase": "eeks"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3a/Benedict_NH.png/150px-Benedict_NH.png",
+        "name": "Benedict",
+        "species": "Chicken",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 10",
+        "catchphrase": "uh-hoo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/97/Benjamin_NH.png/150px-Benjamin_NH.png",
+        "name": "Benjamin",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "August 3",
+        "catchphrase": "alrighty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a7/Bertha_NH.png/150px-Bertha_NH.png",
+        "name": "Bertha",
+        "species": "Hippo",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "April 25",
+        "catchphrase": "bloop"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9c/Bettina_NH_Transparent.png/150px-Bettina_NH_Transparent.png",
+        "name": "Bettina",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 12",
+        "catchphrase": "eekers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6f/Bianca_NH.png/150px-Bianca_NH.png",
+        "name": "Bianca",
+        "species": "Tiger",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "December 13",
+        "catchphrase": "glimmer"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9c/Biff_NH.png/150px-Biff_NH.png",
+        "name": "Biff",
+        "species": "Hippo",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "March 29",
+        "catchphrase": "squirt"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/80/Big_Top_NH.png/150px-Big_Top_NH.png",
+        "name": "Big Top",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 3",
+        "catchphrase": "villain"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c1/Bill_NH.png/150px-Bill_NH.png",
+        "name": "Bill",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "February 1",
+        "catchphrase": "quacko"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/26/Billy_NH.png/150px-Billy_NH.png",
+        "name": "Billy",
+        "species": "Goat",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "March 25",
+        "catchphrase": "dagnaabit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/78/Biskit_NH.png/150px-Biskit_NH.png",
+        "name": "Biskit",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "May 13",
+        "catchphrase": "dawg"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/74/Bitty_NH.png/150px-Bitty_NH.png",
+        "name": "Bitty",
+        "species": "Hippo",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "October 6",
+        "catchphrase": "my dear"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/73/Blaire_NH.png/150px-Blaire_NH.png",
+        "name": "Blaire",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "July 3",
+        "catchphrase": "nutlet"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/df/Blanche_NH.png/150px-Blanche_NH.png",
+        "name": "Blanche",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "December 21",
+        "catchphrase": "quite so"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/49/Bluebear_NH.png/150px-Bluebear_NH.png",
+        "name": "Bluebear",
+        "species": "Cub",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 24",
+        "catchphrase": "peach"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ea/Bob_NH.png/150px-Bob_NH.png",
+        "name": "Bob",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "January 1",
+        "catchphrase": "pthhpth"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cc/Bonbon_NH.png/150px-Bonbon_NH.png",
+        "name": "Bonbon",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "March 3",
+        "catchphrase": "deelish"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2b/Bones_NH.png/150px-Bones_NH.png",
+        "name": "Bones",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "August 4",
+        "catchphrase": "yip yip"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7d/Boomer_NH.png/150px-Boomer_NH.png",
+        "name": "Boomer",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "February 7",
+        "catchphrase": "human"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/19/Boone_NH.png/150px-Boone_NH.png",
+        "name": "Boone",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "September 12",
+        "catchphrase": "baboom"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3e/Boots_NH.png/150px-Boots_NH.png",
+        "name": "Boots",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "August 7",
+        "catchphrase": "munchie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ef/Boris_NH.png/150px-Boris_NH.png",
+        "name": "Boris",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "November 6",
+        "catchphrase": "schnort"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/21/Boyd_NH.png/150px-Boyd_NH.png",
+        "name": "Boyd",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "October 1",
+        "catchphrase": "uh-oh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/12/Bree_NH.png/150px-Bree_NH.png",
+        "name": "Bree",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "July 7",
+        "catchphrase": "cheeseball"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/69/Broccolo_NH.png/150px-Broccolo_NH.png",
+        "name": "Broccolo",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "June 30",
+        "catchphrase": "eat it"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7a/Broffina_NH.png/150px-Broffina_NH.png",
+        "name": "Broffina",
+        "species": "Chicken",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "October 24",
+        "catchphrase": "cluckadoo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/08/Bruce_NH.png/150px-Bruce_NH.png",
+        "name": "Bruce",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "May 26",
+        "catchphrase": "gruff"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0e/Bubbles_NH.png/150px-Bubbles_NH.png",
+        "name": "Bubbles",
+        "species": "Hippo",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "September 18",
+        "catchphrase": "hipster"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7f/Buck_NH.png/150px-Buck_NH.png",
+        "name": "Buck",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "April 4",
+        "catchphrase": "pardner"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1f/Bud_NH.png/150px-Bud_NH.png",
+        "name": "Bud",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 8",
+        "catchphrase": "shredded"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/00/Bunnie_NH_Transparent.png/150px-Bunnie_NH_Transparent.png",
+        "name": "Bunnie",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "May 9",
+        "catchphrase": "tee-hee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2b/Butch_NH.png/150px-Butch_NH.png",
+        "name": "Butch",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "November 1",
+        "catchphrase": "ROOOOOWF"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/05/Buzz_NH.png/150px-Buzz_NH.png",
+        "name": "Buzz",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "December 7",
+        "catchphrase": "captain"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a6/Cally_NH.png/150px-Cally_NH.png",
+        "name": "Cally",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "September 4",
+        "catchphrase": "WHEE"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e1/Camofrog_NH.png/150px-Camofrog_NH.png",
+        "name": "Camofrog",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "June 5",
+        "catchphrase": "ten-hut"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e6/Canberra_NH.png/150px-Canberra_NH.png",
+        "name": "Canberra",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "May 14",
+        "catchphrase": "nuh uh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/57/Candi_NH.png/150px-Candi_NH.png",
+        "name": "Candi",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "April 13",
+        "catchphrase": "sweetie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/eb/Carmen_NH.png/150px-Carmen_NH.png",
+        "name": "Carmen",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "January 6",
+        "catchphrase": "nougat"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/26/Caroline_NH.png/150px-Caroline_NH.png",
+        "name": "Caroline",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "July 15",
+        "catchphrase": "hulaaaa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6a/Carrie_NH.png/150px-Carrie_NH.png",
+        "name": "Carrie",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "December 5",
+        "catchphrase": "little one"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/eb/Cashmere_NH.png/150px-Cashmere_NH.png",
+        "name": "Cashmere",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "April 2",
+        "catchphrase": "baaaby"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/00/Celia_NH.png/150px-Celia_NH.png",
+        "name": "Celia",
+        "species": "Eagle",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 25",
+        "catchphrase": "feathers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/b/b5/Cephalobot_amiibo.png",
+        "name": "Cephalobot",
+        "species": "Octopus",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "April 1",
+        "catchphrase": "donk donk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/23/Cesar_NH.png/150px-Cesar_NH.png",
+        "name": "Cesar",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "September 6",
+        "catchphrase": "highness"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/60/Chabwick_amiibo.png/132px-Chabwick_amiibo.png",
+        "name": "Chabwick",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "December 24",
+        "catchphrase": "blargh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/32/Chadder_NH.png/150px-Chadder_NH.png",
+        "name": "Chadder",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 15",
+        "catchphrase": "fromage"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ab/Chai_PC.png/150px-Chai_PC.png",
+        "name": "Chai",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "March 6",
+        "catchphrase": "flap flap"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ac/Charlise_NH.png/150px-Charlise_NH.png",
+        "name": "Charlise",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Big sister (B)",
+        "birthday": "April 17",
+        "catchphrase": "urgh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/97/Chelsea_PC.png/150px-Chelsea_PC.png",
+        "name": "Chelsea",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "January 18",
+        "catchphrase": "pound cake"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d5/Cheri_NH.png/150px-Cheri_NH.png",
+        "name": "Cheri",
+        "species": "Cub",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "March 17",
+        "catchphrase": "tralala"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3e/Cherry_NH.png/150px-Cherry_NH.png",
+        "name": "Cherry",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "May 11",
+        "catchphrase": "what what"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/af/Chester_NH.png/150px-Chester_NH.png",
+        "name": "Chester",
+        "species": "Cub",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "August 6",
+        "catchphrase": "rookie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c9/Chevre_NH.png/150px-Chevre_NH.png",
+        "name": "Chevre",
+        "species": "Goat",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "March 6",
+        "catchphrase": "la baa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/13/Chief_NH.png/150px-Chief_NH.png",
+        "name": "Chief",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "December 19",
+        "catchphrase": "harrumph"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ad/Chops_NH_Transparent.png/150px-Chops_NH_Transparent.png",
+        "name": "Chops",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "October 13",
+        "catchphrase": "zoink"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d1/Chow_NH.png/150px-Chow_NH.png",
+        "name": "Chow",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 22",
+        "catchphrase": "aiya"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6a/Chrissy_NH.png/150px-Chrissy_NH.png",
+        "name": "Chrissy",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "August 28",
+        "catchphrase": "sparkles"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1f/Claude_NH.png/150px-Claude_NH.png",
+        "name": "Claude",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "December 3",
+        "catchphrase": "hopalong"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d6/Claudia_NH.png/150px-Claudia_NH.png",
+        "name": "Claudia",
+        "species": "Tiger",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "November 22",
+        "catchphrase": "ooh la la"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6c/Clay_NH.png/150px-Clay_NH.png",
+        "name": "Clay",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "October 19",
+        "catchphrase": "thump"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e9/Cleo_NH.png/150px-Cleo_NH.png",
+        "name": "Cleo",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "February 9",
+        "catchphrase": "sugar"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bb/Clyde_NH.png/150px-Clyde_NH.png",
+        "name": "Clyde",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "May 1",
+        "catchphrase": "clip clawp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c1/Coach_NH.png/150px-Coach_NH.png",
+        "name": "Coach",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "April 29",
+        "catchphrase": "stubble"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9d/Cobb_NH.png/150px-Cobb_NH.png",
+        "name": "Cobb",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "October 7",
+        "catchphrase": "hot dog"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/83/Coco_NH.png/150px-Coco_NH.png",
+        "name": "Coco",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "March 1",
+        "catchphrase": "doyoing"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/95/Cole_NH_Transparent.png/150px-Cole_NH_Transparent.png",
+        "name": "Cole",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "August 10",
+        "catchphrase": "coooooool"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8c/Colton_NH.png/150px-Colton_NH.png",
+        "name": "Colton",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "May 22",
+        "catchphrase": "check it"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d9/Cookie_NH.png/150px-Cookie_NH.png",
+        "name": "Cookie",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 18",
+        "catchphrase": "arfer"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1c/Cousteau_NH.png/150px-Cousteau_NH.png",
+        "name": "Cousteau",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "December 17",
+        "catchphrase": "oui oui"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b7/Cranston_NH.png/150px-Cranston_NH.png",
+        "name": "Cranston",
+        "species": "Ostrich",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "September 23",
+        "catchphrase": "sweatband"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/70/Croque_NH.png/150px-Croque_NH.png",
+        "name": "Croque",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "July 18",
+        "catchphrase": "as if"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/10/Cube_NH.png/150px-Cube_NH.png",
+        "name": "Cube",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "January 29",
+        "catchphrase": "brainfreeze"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1a/Curlos_NH_Transparent.png/150px-Curlos_NH_Transparent.png",
+        "name": "Curlos",
+        "species": "Sheep",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "May 8",
+        "catchphrase": "shearly"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3d/Curly_NH.png/150px-Curly_NH.png",
+        "name": "Curly",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "July 26",
+        "catchphrase": "nyoink"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/27/Curt_NH.png/150px-Curt_NH.png",
+        "name": "Curt",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "July 1",
+        "catchphrase": "fuzzball"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5d/Cyd_NH.png/150px-Cyd_NH.png",
+        "name": "Cyd",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "June 9",
+        "catchphrase": "rockin'"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/48/Cyrano_NH.png/150px-Cyrano_NH.png",
+        "name": "Cyrano",
+        "species": "Anteater",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "March 9",
+        "catchphrase": "ah-CHOO"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/96/Daisy_NH.png/150px-Daisy_NH.png",
+        "name": "Daisy",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "November 16",
+        "catchphrase": "bow-WOW"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b8/Deena_NH.png/150px-Deena_NH.png",
+        "name": "Deena",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 27",
+        "catchphrase": "woowoo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3c/Deirdre_NH.png/150px-Deirdre_NH.png",
+        "name": "Deirdre",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "May 4",
+        "catchphrase": "whatevs"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/46/Del_NH.png/150px-Del_NH.png",
+        "name": "Del",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "May 27",
+        "catchphrase": "gronk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/30/Deli_NH.png/150px-Deli_NH.png",
+        "name": "Deli",
+        "species": "Monkey",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "May 24",
+        "catchphrase": "monch"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/98/Derwin_NH.png/150px-Derwin_NH.png",
+        "name": "Derwin",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "May 25",
+        "catchphrase": "derrrr"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1f/Diana_NH.png/150px-Diana_NH.png",
+        "name": "Diana",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "January 4",
+        "catchphrase": "no doy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/44/Diva_NH.png/150px-Diva_NH.png",
+        "name": "Diva",
+        "species": "Frog",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "October 2",
+        "catchphrase": "ya know"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/63/Dizzy_NH.png/150px-Dizzy_NH.png",
+        "name": "Dizzy",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "July 14",
+        "catchphrase": "woo-oo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/76/Dobie_NH.png/150px-Dobie_NH.png",
+        "name": "Dobie",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "February 17",
+        "catchphrase": "ohmmm"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cd/Doc_NH.png/150px-Doc_NH.png",
+        "name": "Doc",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "March 16",
+        "catchphrase": "old bunny"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/75/Dom_NH.png/150px-Dom_NH.png",
+        "name": "Dom",
+        "species": "Sheep",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "March 18",
+        "catchphrase": "indeedaroo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/de/Dora_NH.png/150px-Dora_NH.png",
+        "name": "Dora",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "February 18",
+        "catchphrase": "squeaky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cc/Dotty_NH.png/150px-Dotty_NH.png",
+        "name": "Dotty",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "March 14",
+        "catchphrase": "wee one"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f9/Drago_NH.png/150px-Drago_NH.png",
+        "name": "Drago",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "February 12",
+        "catchphrase": "burrrn"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e0/Drake_NH.png/150px-Drake_NH.png",
+        "name": "Drake",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "June 25",
+        "catchphrase": "quacko"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ac/Drift_NH.png/150px-Drift_NH.png",
+        "name": "Drift",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "October 9",
+        "catchphrase": "dribbit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c9/Ed_NH.png/150px-Ed_NH.png",
+        "name": "Ed",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "September 16",
+        "catchphrase": "greenhorn"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3f/Egbert_NH.png/150px-Egbert_NH.png",
+        "name": "Egbert",
+        "species": "Chicken",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 14",
+        "catchphrase": "doodle-duh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0c/Elise_NH.png/150px-Elise_NH.png",
+        "name": "Elise",
+        "species": "Monkey",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "March 21",
+        "catchphrase": "puh-lease"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/38/Ellie_NH.png/150px-Ellie_NH.png",
+        "name": "Ellie",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "May 12",
+        "catchphrase": "li'l one"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/60/Elmer_NH.png/150px-Elmer_NH.png",
+        "name": "Elmer",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 5",
+        "catchphrase": "tenderfoot"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b1/Eloise_NH.png/150px-Eloise_NH.png",
+        "name": "Eloise",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 8",
+        "catchphrase": "tooooot"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cc/Elvis_NH.png/150px-Elvis_NH.png",
+        "name": "Elvis",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 23",
+        "catchphrase": "unh-hunh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/88/Erik_NH.png/150px-Erik_NH.png",
+        "name": "Erik",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "July 27",
+        "catchphrase": "chow down"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/23/%C3%89toile_PC.png/150px-%C3%89toile_PC.png",
+        "name": "\u00c9toile",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "December 25",
+        "catchphrase": "fuzzy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ab/Eugene_NH.png/150px-Eugene_NH.png",
+        "name": "Eugene",
+        "species": "Koala",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "October 26",
+        "catchphrase": "yeah buddy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/97/Eunice_NH.png/150px-Eunice_NH.png",
+        "name": "Eunice",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "April 3",
+        "catchphrase": "lambchop"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/58/Faith_amiibo.png/150px-Faith_amiibo.png",
+        "name": "Faith",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Big sister (B)",
+        "birthday": "March 21",
+        "catchphrase": "aloha"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9e/Fang_NH_Transparent.png/150px-Fang_NH_Transparent.png",
+        "name": "Fang",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "December 18",
+        "catchphrase": "cha-chomp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/91/Fauna_NH.png/150px-Fauna_NH.png",
+        "name": "Fauna",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 26",
+        "catchphrase": "dearie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c7/Felicity_NH.png/150px-Felicity_NH.png",
+        "name": "Felicity",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "March 30",
+        "catchphrase": "mimimi"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/81/Filbert_NH.png/150px-Filbert_NH.png",
+        "name": "Filbert",
+        "species": "Squirrel",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "June 3",
+        "catchphrase": "bucko"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c3/Flip_NH.png/150px-Flip_NH.png",
+        "name": "Flip",
+        "species": "Monkey",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "November 21",
+        "catchphrase": "rerack"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bb/Flo_NH.png/150px-Flo_NH.png",
+        "name": "Flo",
+        "species": "Penguin",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "September 2",
+        "catchphrase": "cha"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8e/Flora_NH.png/150px-Flora_NH.png",
+        "name": "Flora",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "February 9",
+        "catchphrase": "pinky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/03/Flurry_NH.png/150px-Flurry_NH.png",
+        "name": "Flurry",
+        "species": "Hamster",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "January 30",
+        "catchphrase": "powderpuff"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/34/Francine_NH.png/150px-Francine_NH.png",
+        "name": "Francine",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "January 22",
+        "catchphrase": "karat"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/75/Frank_NH.png/150px-Frank_NH.png",
+        "name": "Frank",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 30",
+        "catchphrase": "crushy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7d/Freckles_NH.png/150px-Freckles_NH.png",
+        "name": "Freckles",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "February 19",
+        "catchphrase": "ducky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b3/Frett_amiibo.png/113px-Frett_amiibo.png",
+        "name": "Frett",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "October 30",
+        "catchphrase": "goshers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ee/Freya_NH.png/150px-Freya_NH.png",
+        "name": "Freya",
+        "species": "Wolf",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 14",
+        "catchphrase": "uff da"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8c/Friga_NH.png/150px-Friga_NH.png",
+        "name": "Friga",
+        "species": "Penguin",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "October 16",
+        "catchphrase": "brrrmph"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d5/Frita_NH.png/150px-Frita_NH.png",
+        "name": "Frita",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "July 16",
+        "catchphrase": "oh ewe"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3b/Frobert_NH.png/150px-Frobert_NH.png",
+        "name": "Frobert",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "February 8",
+        "catchphrase": "fribbit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/67/Fuchsia_NH.png/150px-Fuchsia_NH.png",
+        "name": "Fuchsia",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "September 19",
+        "catchphrase": "precious"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/86/Gabi_NH.png/150px-Gabi_NH.png",
+        "name": "Gabi",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "December 16",
+        "catchphrase": "honeybun"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e6/Gala_NH.png/150px-Gala_NH.png",
+        "name": "Gala",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "March 5",
+        "catchphrase": "snortie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/59/Gaston_NH.png/150px-Gaston_NH.png",
+        "name": "Gaston",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "October 28",
+        "catchphrase": "mon chou"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5e/Gayle_NH.png/150px-Gayle_NH.png",
+        "name": "Gayle",
+        "species": "Alligator",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "May 17",
+        "catchphrase": "snacky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/67/Genji_NH.png/150px-Genji_NH.png",
+        "name": "Genji",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "January 21",
+        "catchphrase": "mochi"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/86/Gigi_NH.png/150px-Gigi_NH.png",
+        "name": "Gigi",
+        "species": "Frog",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "August 11",
+        "catchphrase": "ribbette"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a5/Gladys_NH_Transparent.png/150px-Gladys_NH_Transparent.png",
+        "name": "Gladys",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "January 15",
+        "catchphrase": "stretch"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/14/Gloria_NH.png/150px-Gloria_NH.png",
+        "name": "Gloria",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "August 12",
+        "catchphrase": "quacker"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/8/83/Goldie_NH.png",
+        "name": "Goldie",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "December 27",
+        "catchphrase": "woof"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/09/Gonzo_NH.png/150px-Gonzo_NH.png",
+        "name": "Gonzo",
+        "species": "Koala",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "October 13",
+        "catchphrase": "mate"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/91/Goose_NH.png/150px-Goose_NH.png",
+        "name": "Goose",
+        "species": "Chicken",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "October 4",
+        "catchphrase": "buh-kay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a1/Graham_NH.png/150px-Graham_NH.png",
+        "name": "Graham",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "June 20",
+        "catchphrase": "indeed"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bd/Greta_NH.png/150px-Greta_NH.png",
+        "name": "Greta",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "September 5",
+        "catchphrase": "yelp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/4b/Grizzly_NH.png/150px-Grizzly_NH.png",
+        "name": "Grizzly",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 31",
+        "catchphrase": "grrr"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1d/Groucho_NH.png/150px-Groucho_NH.png",
+        "name": "Groucho",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "October 23",
+        "catchphrase": "grumble"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/25/Gruff_NH.png/150px-Gruff_NH.png",
+        "name": "Gruff",
+        "species": "Goat",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "August 29",
+        "catchphrase": "bleh eh eh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/be/Gwen_NH.png/150px-Gwen_NH.png",
+        "name": "Gwen",
+        "species": "Penguin",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "January 23",
+        "catchphrase": "h-h-h-hon"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/46/Hamlet_NH.png/102px-Hamlet_NH.png",
+        "name": "Hamlet",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "May 30",
+        "catchphrase": "hammie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a9/Hamphrey_NH.png/150px-Hamphrey_NH.png",
+        "name": "Hamphrey",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "February 25",
+        "catchphrase": "snort"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/15/Hans_NH.png/150px-Hans_NH.png",
+        "name": "Hans",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 5",
+        "catchphrase": "groovy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1a/Harry_NH.png/150px-Harry_NH.png",
+        "name": "Harry",
+        "species": "Hippo",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "January 7",
+        "catchphrase": "beach bum"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/17/Hazel_NH.png/150px-Hazel_NH.png",
+        "name": "Hazel",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "August 30",
+        "catchphrase": "uni-wow"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/26/Henry_NH.png/150px-Henry_NH.png",
+        "name": "Henry",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "September 21",
+        "catchphrase": "snoozit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/26/Hippeux_NH.png/150px-Hippeux_NH.png",
+        "name": "Hippeux",
+        "species": "Hippo",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "October 15",
+        "catchphrase": "natch"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c1/Hopkins_NH.png/150px-Hopkins_NH.png",
+        "name": "Hopkins",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "March 11",
+        "catchphrase": "thumper"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cb/Hopper_NH.png/150px-Hopper_NH.png",
+        "name": "Hopper",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "April 6",
+        "catchphrase": "slushie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/95/Hornsby_NH.png/150px-Hornsby_NH.png",
+        "name": "Hornsby",
+        "species": "Rhinoceros",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "March 20",
+        "catchphrase": "schnozzle"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/17/Huck_NH.png/150px-Huck_NH.png",
+        "name": "Huck",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "July 9",
+        "catchphrase": "hopper"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b6/Hugh_NH.png/150px-Hugh_NH.png",
+        "name": "Hugh",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "December 30",
+        "catchphrase": "snortle"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/68/Iggly_NH.png/150px-Iggly_NH.png",
+        "name": "Iggly",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "November 2",
+        "catchphrase": "waddler"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/34/Ike_NH.png/150px-Ike_NH.png",
+        "name": "Ike",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "May 16",
+        "catchphrase": "roadie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/4/40/Ione_amiibo.png",
+        "name": "Ione",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "September 11",
+        "catchphrase": "gleam"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3e/Jacob_NH.png/150px-Jacob_NH.png",
+        "name": "Jacob",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "August 24",
+        "catchphrase": "ya feel"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/03/Jacques_NH.png/150px-Jacques_NH.png",
+        "name": "Jacques",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "June 22",
+        "catchphrase": "zut alors"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/35/Jambette_NH.png/150px-Jambette_NH.png",
+        "name": "Jambette",
+        "species": "Frog",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "October 27",
+        "catchphrase": "croak-kay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3b/Jay_NH_1.png/150px-Jay_NH_1.png",
+        "name": "Jay",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "July 17",
+        "catchphrase": "heeeeeyy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/93/Jeremiah_NH.png/150px-Jeremiah_NH.png",
+        "name": "Jeremiah",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "July 8",
+        "catchphrase": "nee-deep"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a6/Jitters_NH.png/150px-Jitters_NH.png",
+        "name": "Jitters",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "February 2",
+        "catchphrase": "bzzert"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/66/Joey_NH.png/150px-Joey_NH.png",
+        "name": "Joey",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "January 3",
+        "catchphrase": "bleeeeeck"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/d/d4/Judy_NH.png",
+        "name": "Judy",
+        "species": "Cub",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "March 10",
+        "catchphrase": "myohmy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0b/Julia_NH_Transparent.png/150px-Julia_NH_Transparent.png",
+        "name": "Julia",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "July 31",
+        "catchphrase": "dahling"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f2/Julian_NH.png/150px-Julian_NH.png",
+        "name": "Julian",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "March 15",
+        "catchphrase": "glitter"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/85/June_NH.png/150px-June_NH.png",
+        "name": "June",
+        "species": "Cub",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "May 21",
+        "catchphrase": "rainbow"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2a/Kabuki_NH.png/150px-Kabuki_NH.png",
+        "name": "Kabuki",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "November 29",
+        "catchphrase": "meooo-OH"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c9/Katt_NH.png/150px-Katt_NH.png",
+        "name": "Katt",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "April 27",
+        "catchphrase": "purrty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3b/Keaton_NH.png/150px-Keaton_NH.png",
+        "name": "Keaton",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "June 1",
+        "catchphrase": "wingo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e0/Ken_NH.png/150px-Ken_NH.png",
+        "name": "Ken",
+        "species": "Chicken",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 23",
+        "catchphrase": "no doubt"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/42/Ketchup_NH.png/150px-Ketchup_NH.png",
+        "name": "Ketchup",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "July 27",
+        "catchphrase": "bitty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/71/Kevin_NH.png/150px-Kevin_NH.png",
+        "name": "Kevin",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "April 26",
+        "catchphrase": "weeweewee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c3/Kid_Cat_NH.png/150px-Kid_Cat_NH.png",
+        "name": "Kid Cat",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 1",
+        "catchphrase": "psst"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7a/Kidd_NH.png/150px-Kidd_NH.png",
+        "name": "Kidd",
+        "species": "Goat",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "June 28",
+        "catchphrase": "wut"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c5/Kiki_NH.png/150px-Kiki_NH.png",
+        "name": "Kiki",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "October 8",
+        "catchphrase": "kitty cat"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/75/Kitt_NH.png/150px-Kitt_NH.png",
+        "name": "Kitt",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "October 11",
+        "catchphrase": "child"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/21/Kitty_NH.png/150px-Kitty_NH.png",
+        "name": "Kitty",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "February 15",
+        "catchphrase": "mrowrr"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5c/Klaus_NH.png/150px-Klaus_NH.png",
+        "name": "Klaus",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "March 31",
+        "catchphrase": "strudel"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/03/Knox_NH.png/150px-Knox_NH.png",
+        "name": "Knox",
+        "species": "Chicken",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "November 23",
+        "catchphrase": "cluckling"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/20/Kody_NH.png/150px-Kody_NH.png",
+        "name": "Kody",
+        "species": "Cub",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "September 28",
+        "catchphrase": "grah grah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/46/Kyle_NH.png/150px-Kyle_NH.png",
+        "name": "Kyle",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 6",
+        "catchphrase": "alpha"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0a/Leonardo_NH.png/150px-Leonardo_NH.png",
+        "name": "Leonardo",
+        "species": "Tiger",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "May 15",
+        "catchphrase": "flexin'"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3a/Leopold_NH.png/150px-Leopold_NH.png",
+        "name": "Leopold",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "August 14",
+        "catchphrase": "lion cub"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/42/Lily_NH.png/150px-Lily_NH.png",
+        "name": "Lily",
+        "species": "Frog",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "February 4",
+        "catchphrase": "toady"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b0/Limberg_NH.png/150px-Limberg_NH.png",
+        "name": "Limberg",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "October 17",
+        "catchphrase": "squinky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bb/Lionel_NH.png/150px-Lionel_NH.png",
+        "name": "Lionel",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "July 29",
+        "catchphrase": "precisely"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d1/Lobo_NH.png/150px-Lobo_NH.png",
+        "name": "Lobo",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "November 5",
+        "catchphrase": "ah-rooooo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/16/Lolly_NH.png/150px-Lolly_NH.png",
+        "name": "Lolly",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "March 27",
+        "catchphrase": "bonbon"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/53/Lopez_NH.png/150px-Lopez_NH.png",
+        "name": "Lopez",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "August 20",
+        "catchphrase": "badoom"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5a/Louie_NH.png/150px-Louie_NH.png",
+        "name": "Louie",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "March 26",
+        "catchphrase": "hoo hoo ha"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/4a/Lucha_NH.png/150px-Lucha_NH.png",
+        "name": "Lucha",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 12",
+        "catchphrase": "cacaw"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/59/Lucky_NH.png/150px-Lucky_NH.png",
+        "name": "Lucky",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "November 4",
+        "catchphrase": "rrr-owch"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e5/Lucy_NH.png/150px-Lucy_NH.png",
+        "name": "Lucy",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 2",
+        "catchphrase": "snoooink"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a5/Lyman_NH.png/150px-Lyman_NH.png",
+        "name": "Lyman",
+        "species": "Koala",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "October 12",
+        "catchphrase": "chips"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/ab/Mac_NH.png/150px-Mac_NH.png",
+        "name": "Mac",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "November 11",
+        "catchphrase": "woo woof"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/06/Maddie_NH.png/150px-Maddie_NH.png",
+        "name": "Maddie",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "January 11",
+        "catchphrase": "yippee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/93/Maelle_NH.png/150px-Maelle_NH.png",
+        "name": "Maelle",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "April 8",
+        "catchphrase": "duckling"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b8/Maggie_NH.png/150px-Maggie_NH.png",
+        "name": "Maggie",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "September 3",
+        "catchphrase": "schep"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/28/Mallary_NH.png/150px-Mallary_NH.png",
+        "name": "Mallary",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 17",
+        "catchphrase": "quackpth"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a2/Maple_NH.png/150px-Maple_NH.png",
+        "name": "Maple",
+        "species": "Bear cub",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 15",
+        "catchphrase": "honey"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3e/Marcel_NH.png/150px-Marcel_NH.png",
+        "name": "Marcel",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "December 31",
+        "catchphrase": "non"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2b/Marcie_NH.png/150px-Marcie_NH.png",
+        "name": "Marcie",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "May 31",
+        "catchphrase": "pouches"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/54/Margie_NH.png/150px-Margie_NH.png",
+        "name": "Margie",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "January 28",
+        "catchphrase": "tootie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/25/Marina_NH.png/150px-Marina_NH.png",
+        "name": "Marina",
+        "species": "Octopus",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 26",
+        "catchphrase": "blurp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/c/c1/Marlo_amiibo.png",
+        "name": "Marlo",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "June 26",
+        "catchphrase": "gabeesh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/da/Marshal_NH.png/150px-Marshal_NH.png",
+        "name": "Marshal",
+        "species": "Squirrel",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "September 29",
+        "catchphrase": "sulky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a9/Marty_PC.png/150px-Marty_PC.png",
+        "name": "Marty",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "April 16",
+        "catchphrase": "pompom"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/58/Mathilda_NH.png/150px-Mathilda_NH.png",
+        "name": "Mathilda",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 12",
+        "catchphrase": "wee baby"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/72/Megan_NH_1.png/150px-Megan_NH_1.png",
+        "name": "Megan",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 13",
+        "catchphrase": "sundae"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/43/Melba_NH.png/150px-Melba_NH.png",
+        "name": "Melba",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "April 12",
+        "catchphrase": "toasty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0c/Merengue_NH.png/150px-Merengue_NH.png",
+        "name": "Merengue",
+        "species": "Rhinoceros",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 19",
+        "catchphrase": "shortcake"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/4f/Merry_NH.png/150px-Merry_NH.png",
+        "name": "Merry",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 29",
+        "catchphrase": "mweee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/af/Midge_NH.png/150px-Midge_NH.png",
+        "name": "Midge",
+        "species": "Bird",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "March 12",
+        "catchphrase": "tweedledee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5b/Mint_NH.png/150px-Mint_NH.png",
+        "name": "Mint",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "May 2",
+        "catchphrase": "ahhhhhh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d1/Mira_NH.png/150px-Mira_NH.png",
+        "name": "Mira",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "July 6",
+        "catchphrase": "cottontail"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8c/Miranda_NH.png/150px-Miranda_NH.png",
+        "name": "Miranda",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "April 23",
+        "catchphrase": "quackulous"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/63/Mitzi_NH.png/150px-Mitzi_NH.png",
+        "name": "Mitzi",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "September 25",
+        "catchphrase": "mew"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a4/Moe_NH.png/150px-Moe_NH.png",
+        "name": "Moe",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "January 12",
+        "catchphrase": "myawn"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/29/Molly_NH.png/150px-Molly_NH.png",
+        "name": "Molly",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 7",
+        "catchphrase": "quackidee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cc/Monique_NH.png/150px-Monique_NH.png",
+        "name": "Monique",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 30",
+        "catchphrase": "pffffft"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d7/Monty_NH.png/150px-Monty_NH.png",
+        "name": "Monty",
+        "species": "Monkey",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "December 7",
+        "catchphrase": "g'tang"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ee/Moose_NH.png/150px-Moose_NH.png",
+        "name": "Moose",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "September 13",
+        "catchphrase": "shorty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b8/Mott_NH.png/150px-Mott_NH.png",
+        "name": "Mott",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "July 10",
+        "catchphrase": "cagey"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/16/Muffy_NH.png/150px-Muffy_NH.png",
+        "name": "Muffy",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "February 14",
+        "catchphrase": "nightshade"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7c/Murphy_NH.png/150px-Murphy_NH.png",
+        "name": "Murphy",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "December 29",
+        "catchphrase": "malarkey"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b8/Nan_NH.png/150px-Nan_NH.png",
+        "name": "Nan",
+        "species": "Goat",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "August 24",
+        "catchphrase": "kid"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b1/Nana_NH.png/150px-Nana_NH.png",
+        "name": "Nana",
+        "species": "Monkey",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "August 23",
+        "catchphrase": "po po"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f6/Naomi_NH.png/150px-Naomi_NH.png",
+        "name": "Naomi",
+        "species": "Cow",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "February 28",
+        "catchphrase": "moolah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/55/Nate_NH.png/150px-Nate_NH.png",
+        "name": "Nate",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "August 16",
+        "catchphrase": "yawwwn"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/97/Nibbles_NH.png/150px-Nibbles_NH.png",
+        "name": "Nibbles",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "July 19",
+        "catchphrase": "niblet"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e7/Norma_NH.png/150px-Norma_NH.png",
+        "name": "Norma",
+        "species": "Cow",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "September 20",
+        "catchphrase": "hoof hoo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/cf/O%27Hare_NH.png/150px-O%27Hare_NH.png",
+        "name": "O'Hare",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "July 24",
+        "catchphrase": "amigo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/54/Octavian_NH_Transparent.png/150px-Octavian_NH_Transparent.png",
+        "name": "Octavian",
+        "species": "Octopus",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "September 20",
+        "catchphrase": "sucker"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/11/Olaf_NH.png/150px-Olaf_NH.png",
+        "name": "Olaf",
+        "species": "Anteater",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "May 19",
+        "catchphrase": "whiffa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/5c/Olive_NH.png/150px-Olive_NH.png",
+        "name": "Olive",
+        "species": "Bear cub",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "July 12",
+        "catchphrase": "sweet pea"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/36/Olivia_NH.png/150px-Olivia_NH.png",
+        "name": "Olivia",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "February 3",
+        "catchphrase": "purrr"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/ce/Opal_NH.png/150px-Opal_NH.png",
+        "name": "Opal",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "January 20",
+        "catchphrase": "snoot"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3a/Ozzie_NH.png/150px-Ozzie_NH.png",
+        "name": "Ozzie",
+        "species": "Koala",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "May 7",
+        "catchphrase": "ol' bear"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ec/Pancetti_NH.png/150px-Pancetti_NH.png",
+        "name": "Pancetti",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "November 14",
+        "catchphrase": "sooey"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d5/Pango_NH.png/150px-Pango_NH.png",
+        "name": "Pango",
+        "species": "Anteater",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "November 9",
+        "catchphrase": "snooooof"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/59/Paolo_NH.png/150px-Paolo_NH.png",
+        "name": "Paolo",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "May 5",
+        "catchphrase": "pal"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a7/Papi_NH.png/150px-Papi_NH.png",
+        "name": "Papi",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "January 10",
+        "catchphrase": "haaay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3e/Pashmina_NH.png/150px-Pashmina_NH.png",
+        "name": "Pashmina",
+        "species": "Goat",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "December 26",
+        "catchphrase": "kidders"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6b/Pate_NH.png/150px-Pate_NH.png",
+        "name": "Pate",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "February 23",
+        "catchphrase": "quackle"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f1/Patty_NH.png/150px-Patty_NH.png",
+        "name": "Patty",
+        "species": "Cow",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "May 10",
+        "catchphrase": "how-now"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0f/Paula_NH.png/150px-Paula_NH.png",
+        "name": "Paula",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Big sister (B)",
+        "birthday": "March 22",
+        "catchphrase": "yodelay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0d/Peaches_NH.png/150px-Peaches_NH.png",
+        "name": "Peaches",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "November 28",
+        "catchphrase": "neighbor"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/06/Peanut_NH_Transparent.png/150px-Peanut_NH_Transparent.png",
+        "name": "Peanut",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 8",
+        "catchphrase": "slacker"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/60/Pecan_NH.png/150px-Pecan_NH.png",
+        "name": "Pecan",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 10",
+        "catchphrase": "chipmunk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/44/Peck_NH.png/150px-Peck_NH.png",
+        "name": "Peck",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "July 25",
+        "catchphrase": "crunch"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2a/Peewee_NH.png/150px-Peewee_NH.png",
+        "name": "Peewee",
+        "species": "Gorilla",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "September 11",
+        "catchphrase": "li'l bitty baby"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/28/Peggy_NH.png/150px-Peggy_NH.png",
+        "name": "Peggy",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "May 23",
+        "catchphrase": "shweetie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/df/Pekoe_NH.png/150px-Pekoe_NH.png",
+        "name": "Pekoe",
+        "species": "Bear cub",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "May 18",
+        "catchphrase": "bud"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/15/Penelope_NH.png/150px-Penelope_NH.png",
+        "name": "Penelope",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "February 5",
+        "catchphrase": "oh bow"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/7/7e/Petri_amiibo.png",
+        "name": "Petri",
+        "species": "Mouse",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "October 23",
+        "catchphrase": "mmmhmm"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f2/Phil_NH.png/150px-Phil_NH.png",
+        "name": "Phil",
+        "species": "Ostrich",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "November 27",
+        "catchphrase": "hurk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/50/Phoebe_NH.png/150px-Phoebe_NH.png",
+        "name": "Phoebe",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "April 22",
+        "catchphrase": "sparky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/80/Pierce_NH.png/150px-Pierce_NH.png",
+        "name": "Pierce",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "January 8",
+        "catchphrase": "hawkeye"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/fb/Pietro_NH.png/150px-Pietro_NH.png",
+        "name": "Pietro",
+        "species": "Sheep",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "April 19",
+        "catchphrase": "honk honk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bf/Pinky_NH.png/150px-Pinky_NH.png",
+        "name": "Pinky",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "September 9",
+        "catchphrase": "wah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/09/Piper_NH.png/150px-Piper_NH.png",
+        "name": "Piper",
+        "species": "Bird",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "April 18",
+        "catchphrase": "chickadee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a1/Pippy_NH.png/150px-Pippy_NH.png",
+        "name": "Pippy",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 14",
+        "catchphrase": "li'l hare"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/63/Plucky_NH.png/150px-Plucky_NH.png",
+        "name": "Plucky",
+        "species": "Chicken",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "October 12",
+        "catchphrase": "chicky-poo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/32/Pompom_NH.png/150px-Pompom_NH.png",
+        "name": "Pompom",
+        "species": "Duck",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "February 11",
+        "catchphrase": "rah rah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f0/Poncho_NH.png/150px-Poncho_NH.png",
+        "name": "Poncho",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "January 2",
+        "catchphrase": "li'l bear"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c4/Poppy_NH.png/150px-Poppy_NH.png",
+        "name": "Poppy",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "August 5",
+        "catchphrase": "nutty"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/ce/Portia_NH.png/150px-Portia_NH.png",
+        "name": "Portia",
+        "species": "Dog",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "October 25",
+        "catchphrase": "ruffian"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a6/Prince_NH.png/150px-Prince_NH.png",
+        "name": "Prince",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "July 21",
+        "catchphrase": "burrup"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/53/Puck_NH.png/150px-Puck_NH.png",
+        "name": "Puck",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "February 21",
+        "catchphrase": "brrrrrrrrr"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f9/Puddles_NH.png/150px-Puddles_NH.png",
+        "name": "Puddles",
+        "species": "Frog",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "January 13",
+        "catchphrase": "splish"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/87/Pudge_NH.png/150px-Pudge_NH.png",
+        "name": "Pudge",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "June 11",
+        "catchphrase": "pudgy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6d/Punchy_NH.png/150px-Punchy_NH.png",
+        "name": "Punchy",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "April 11",
+        "catchphrase": "mrmpht"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a2/Purrl_NH.png/150px-Purrl_NH.png",
+        "name": "Purrl",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "May 29",
+        "catchphrase": "kitten"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f1/Queenie_NH.png/150px-Queenie_NH.png",
+        "name": "Queenie",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 13",
+        "catchphrase": "chicken"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e4/Quillson_NH.png/150px-Quillson_NH.png",
+        "name": "Quillson",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "December 22",
+        "catchphrase": "ridukulous"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a2/Quinn_amiibo.png/150px-Quinn_amiibo.png",
+        "name": "Quinn",
+        "species": "Eagle",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "January 20",
+        "catchphrase": "proper"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7a/Raddle_NH.png/150px-Raddle_NH.png",
+        "name": "Raddle",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "June 6",
+        "catchphrase": "aaach\u2014"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e1/Rasher_NH.png/150px-Rasher_NH.png",
+        "name": "Rasher",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "April 7",
+        "catchphrase": "swine"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/2/2a/Raymond_NH.png",
+        "name": "Raymond",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Smug (B)",
+        "birthday": "October 1",
+        "catchphrase": "crisp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ef/Ren%C3%A9e_NH.png/150px-Ren%C3%A9e_NH.png",
+        "name": "Ren\u00e9e",
+        "species": "Rhinoceros",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "May 28",
+        "catchphrase": "yo yo yo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/92/Reneigh_NH.png/150px-Reneigh_NH.png",
+        "name": "Reneigh",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "June 4",
+        "catchphrase": "ayup yup"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/78/Rex_NH.png/150px-Rex_NH.png",
+        "name": "Rex",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "July 24",
+        "catchphrase": "cool cat"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/df/Rhonda_NH.png/150px-Rhonda_NH.png",
+        "name": "Rhonda",
+        "species": "Rhinoceros",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "January 24",
+        "catchphrase": "bigfoot"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/94/Ribbot_NH.png/150px-Ribbot_NH.png",
+        "name": "Ribbot",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "February 13",
+        "catchphrase": "zzrrbbitt"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8d/Ricky_NH.png/150px-Ricky_NH.png",
+        "name": "Ricky",
+        "species": "Squirrel",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "September 14",
+        "catchphrase": "nutcase"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/31/Rilla_PC.png/150px-Rilla_PC.png",
+        "name": "Rilla",
+        "species": "Gorilla",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "November 1",
+        "catchphrase": "hello"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/7/7e/Rio_amiibo.png",
+        "name": "Rio",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "September 10",
+        "catchphrase": "li'l chick"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/69/Rizzo_NH.png/150px-Rizzo_NH.png",
+        "name": "Rizzo",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "January 17",
+        "catchphrase": "squee"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/63/Roald_NH.png/150px-Roald_NH.png",
+        "name": "Roald",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "January 5",
+        "catchphrase": "b-b-buddy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/85/Robin_NH.png/150px-Robin_NH.png",
+        "name": "Robin",
+        "species": "Bird",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "December 4",
+        "catchphrase": "la-di-da"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/02/Rocco_NH.png/150px-Rocco_NH.png",
+        "name": "Rocco",
+        "species": "Hippo",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "August 18",
+        "catchphrase": "hippie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/58/Rocket_NH.png/150px-Rocket_NH.png",
+        "name": "Rocket",
+        "species": "Gorilla",
+        "gender": "Female",
+        "personality": "Big sister (B)",
+        "birthday": "April 14",
+        "catchphrase": "vroom"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ea/Rod_NH.png/150px-Rod_NH.png",
+        "name": "Rod",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 14",
+        "catchphrase": "ace"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6c/Rodeo_NH.png/150px-Rodeo_NH.png",
+        "name": "Rodeo",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "October 29",
+        "catchphrase": "chaps"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/35/Rodney_NH.png/150px-Rodney_NH.png",
+        "name": "Rodney",
+        "species": "Hamster",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "November 10",
+        "catchphrase": "le ham"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/93/Rolf_NH.png/150px-Rolf_NH.png",
+        "name": "Rolf",
+        "species": "Tiger",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "August 22",
+        "catchphrase": "grrrolf"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/79/Rooney_NH.png/150px-Rooney_NH.png",
+        "name": "Rooney",
+        "species": "Kangaroo",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "December 1",
+        "catchphrase": "punches"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/db/Rory_NH.png/150px-Rory_NH.png",
+        "name": "Rory",
+        "species": "Lion",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "August 7",
+        "catchphrase": "capital"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8e/Roscoe_NH.png/150px-Roscoe_NH.png",
+        "name": "Roscoe",
+        "species": "Horse",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "June 16",
+        "catchphrase": "nay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/f/fe/Rosie_NH_Transparent.png",
+        "name": "Rosie",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "February 27",
+        "catchphrase": "silly"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/df/Roswell_amiibo.png/117px-Roswell_amiibo.png",
+        "name": "Roswell",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "May 2",
+        "catchphrase": "spaaace"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7c/Rowan_NH_Transparent.png/150px-Rowan_NH_Transparent.png",
+        "name": "Rowan",
+        "species": "Tiger",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 26",
+        "catchphrase": "mango"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/41/Ruby_NH.png/150px-Ruby_NH.png",
+        "name": "Ruby",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "December 25",
+        "catchphrase": "li'l ears"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7e/Rudy_NH.png/150px-Rudy_NH.png",
+        "name": "Rudy",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "December 20",
+        "catchphrase": "mush"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a3/Sally_NH.png/150px-Sally_NH.png",
+        "name": "Sally",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 19",
+        "catchphrase": "nutmeg"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9b/Samson_NH.png/150px-Samson_NH.png",
+        "name": "Samson",
+        "species": "Mouse",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "July 5",
+        "catchphrase": "pipsqueak"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a9/Sandy_NH.png/150px-Sandy_NH.png",
+        "name": "Sandy",
+        "species": "Ostrich",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "October 21",
+        "catchphrase": "speedy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/9/90/Sasha_amiibo.png",
+        "name": "Sasha",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "May 19",
+        "catchphrase": "hoppity"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/46/Savannah_NH.png/150px-Savannah_NH.png",
+        "name": "Savannah",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "January 25",
+        "catchphrase": "y'all"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ec/Scoot_NH.png/150px-Scoot_NH.png",
+        "name": "Scoot",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "June 13",
+        "catchphrase": "zip zoom"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/72/Shari_NH.png/150px-Shari_NH.png",
+        "name": "Shari",
+        "species": "Monkey",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "April 10",
+        "catchphrase": "cheeky"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/ce/Sheldon_NH.png/150px-Sheldon_NH.png",
+        "name": "Sheldon",
+        "species": "Squirrel",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "February 26",
+        "catchphrase": "cardio"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c1/Shep_NH.png/150px-Shep_NH.png",
+        "name": "Shep",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "November 24",
+        "catchphrase": "baa baa baa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/18/Sherb_NH.png/150px-Sherb_NH.png",
+        "name": "Sherb",
+        "species": "Goat",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "January 18",
+        "catchphrase": "bawwww"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/2/26/Shino_amiibo.png",
+        "name": "Shino",
+        "species": "Deer",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "October 31",
+        "catchphrase": "okaaay"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/68/Simon_NH.png/150px-Simon_NH.png",
+        "name": "Simon",
+        "species": "Monkey",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "January 19",
+        "catchphrase": "zzzook"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d1/Skye_NH.png/150px-Skye_NH.png",
+        "name": "Skye",
+        "species": "Wolf",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "March 24",
+        "catchphrase": "airmail"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/70/Sly_NH.png/150px-Sly_NH.png",
+        "name": "Sly",
+        "species": "Alligator",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "November 15",
+        "catchphrase": "hoo-rah"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/ec/Snake_NH.png/150px-Snake_NH.png",
+        "name": "Snake",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "November 3",
+        "catchphrase": "bunyip"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/63/Snooty_NH.png/150px-Snooty_NH.png",
+        "name": "Snooty",
+        "species": "Anteater",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "October 24",
+        "catchphrase": "sniffff"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/de/Soleil_NH.png/150px-Soleil_NH.png",
+        "name": "Soleil",
+        "species": "Hamster",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "August 9",
+        "catchphrase": "tarnation"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/32/Sparro_NH.png/150px-Sparro_NH.png",
+        "name": "Sparro",
+        "species": "Bird",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "November 20",
+        "catchphrase": "like whoa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f1/Spike_NH.png/150px-Spike_NH.png",
+        "name": "Spike",
+        "species": "Rhinoceros",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "June 17",
+        "catchphrase": "punk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c2/Spork_NH.png/150px-Spork_NH.png",
+        "name": "Spork",
+        "species": "Pig",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "September 3",
+        "catchphrase": "snork"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/44/Sprinkle_NH.png/150px-Sprinkle_NH.png",
+        "name": "Sprinkle",
+        "species": "Penguin",
+        "gender": "Female",
+        "personality": "Peppy (A)",
+        "birthday": "February 20",
+        "catchphrase": "frappe"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/8/8b/Sprocket_NH.png/150px-Sprocket_NH.png",
+        "name": "Sprocket",
+        "species": "Ostrich",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "December 1",
+        "catchphrase": "zort"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/68/Static_NH.png/150px-Static_NH.png",
+        "name": "Static",
+        "species": "Squirrel",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "July 9",
+        "catchphrase": "krzzt"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/95/Stella_NH.png/150px-Stella_NH.png",
+        "name": "Stella",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "April 9",
+        "catchphrase": "baa-dabing"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/4f/Sterling_NH.png/150px-Sterling_NH.png",
+        "name": "Sterling",
+        "species": "Eagle",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "December 11",
+        "catchphrase": "skraaaaw"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/9c/Stinky_NH.png/150px-Stinky_NH.png",
+        "name": "Stinky",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 17",
+        "catchphrase": "GAAHHH"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/56/Stitches_NH.png/150px-Stitches_NH.png",
+        "name": "Stitches",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "February 10",
+        "catchphrase": "stuffin'"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/fa/Stu_NH.png/150px-Stu_NH.png",
+        "name": "Stu",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "April 20",
+        "catchphrase": "mrooooo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/3f/Sydney_NH.png/150px-Sydney_NH.png",
+        "name": "Sydney",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "June 21",
+        "catchphrase": "sunshine"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/fc/Sylvana_NH.png/150px-Sylvana_NH.png",
+        "name": "Sylvana",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "October 22",
+        "catchphrase": "hubbub"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/93/Sylvia_NH.png/150px-Sylvia_NH.png",
+        "name": "Sylvia",
+        "species": "Kangaroo",
+        "gender": "Female",
+        "personality": "Big sister (B)",
+        "birthday": "May 3",
+        "catchphrase": "boing"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/e/e0/T-Bone_NH.png/150px-T-Bone_NH.png",
+        "name": "T-Bone",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "May 20",
+        "catchphrase": "moocher"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/2f/Tabby_NH.png/150px-Tabby_NH.png",
+        "name": "Tabby",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "August 13",
+        "catchphrase": "me-WOW"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/67/Tad_NH.png/150px-Tad_NH.png",
+        "name": "Tad",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "August 3",
+        "catchphrase": "sluuuurp"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/a8/Tammi_NH.png/150px-Tammi_NH.png",
+        "name": "Tammi",
+        "species": "Monkey",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "April 2",
+        "catchphrase": "chimpy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/aa/Tammy_NH.png/150px-Tammy_NH.png",
+        "name": "Tammy",
+        "species": "Bear cub",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "June 23",
+        "catchphrase": "ya heard"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6f/Tangy_NH.png/150px-Tangy_NH.png",
+        "name": "Tangy",
+        "species": "Cat",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "June 17",
+        "catchphrase": "reeeeOWR"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/69/Tank_NH_Transparent.png/150px-Tank_NH_Transparent.png",
+        "name": "Tank",
+        "species": "Rhinoceros",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "May 6",
+        "catchphrase": "kerPOW"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/35/Tasha_NH.png/150px-Tasha_NH.png",
+        "name": "Tasha",
+        "species": "Squirrel",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "November 30",
+        "catchphrase": "nice nice"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b9/Teddy_NH.png/150px-Teddy_NH.png",
+        "name": "Teddy",
+        "species": "Bear",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "September 26",
+        "catchphrase": "grooof"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/4/44/Tex_NH.png/150px-Tex_NH.png",
+        "name": "Tex",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "October 6",
+        "catchphrase": "picante"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0d/Tia_NH.png/150px-Tia_NH.png",
+        "name": "Tia",
+        "species": "Elephant",
+        "gender": "Female",
+        "personality": "Normal (A)",
+        "birthday": "November 18",
+        "catchphrase": "teacup"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/5/5d/Tiansheng_amiibo.png",
+        "name": "Tiansheng",
+        "species": "Monkey",
+        "gender": "Male",
+        "personality": "Jock (B)",
+        "birthday": "August 18",
+        "catchphrase": "wuwu"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/f/f0/Tiffany_NH.png/150px-Tiffany_NH.png",
+        "name": "Tiffany",
+        "species": "Rabbit",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "January 9",
+        "catchphrase": "bunbun"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6f/Timbra_NH.png/150px-Timbra_NH.png",
+        "name": "Timbra",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "October 21",
+        "catchphrase": "pine nut"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/75/Tipper_NH.png/150px-Tipper_NH.png",
+        "name": "Tipper",
+        "species": "Cow",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "August 25",
+        "catchphrase": "pushy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/67/Toby_PC.png/150px-Toby_PC.png",
+        "name": "Toby",
+        "species": "Rabbit",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "July 10",
+        "catchphrase": "ribbit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/d1/Tom_NH.png/150px-Tom_NH.png",
+        "name": "Tom",
+        "species": "Cat",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "December 10",
+        "catchphrase": "me-YOWZA"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/e/eb/Truffles_NH.png",
+        "name": "Truffles",
+        "species": "Pig",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "July 28",
+        "catchphrase": "snoutie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7c/Tucker_NH.png/150px-Tucker_NH.png",
+        "name": "Tucker",
+        "species": "Elephant",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "September 7",
+        "catchphrase": "fuzzers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/9/93/Tutu_NH.png/150px-Tutu_NH.png",
+        "name": "Tutu",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "September 15",
+        "catchphrase": "twinkles"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/67/Twiggy_NH.png/150px-Twiggy_NH.png",
+        "name": "Twiggy",
+        "species": "Bird",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "July 13",
+        "catchphrase": "cheepers"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0f/Tybalt_NH.png/150px-Tybalt_NH.png",
+        "name": "Tybalt",
+        "species": "Tiger",
+        "gender": "Male",
+        "personality": "Jock (A)",
+        "birthday": "August 19",
+        "catchphrase": "grrrRAH"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/65/Ursala_NH.png/150px-Ursala_NH.png",
+        "name": "Ursala",
+        "species": "Bear",
+        "gender": "Female",
+        "personality": "Big sister (A)",
+        "birthday": "January 16",
+        "catchphrase": "grooomph"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/59/Velma_NH.png/150px-Velma_NH.png",
+        "name": "Velma",
+        "species": "Goat",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "January 14",
+        "catchphrase": "blih"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/59/Vesta_NH_Transparent.png/150px-Vesta_NH_Transparent.png",
+        "name": "Vesta",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "April 16",
+        "catchphrase": "baaaffo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/1/1d/Vic_NH.png/150px-Vic_NH.png",
+        "name": "Vic",
+        "species": "Bull",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "December 29",
+        "catchphrase": "cud"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/d/da/Victoria_NH.png/150px-Victoria_NH.png",
+        "name": "Victoria",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "July 11",
+        "catchphrase": "sugar cube"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/6b/Violet_NH.png/150px-Violet_NH.png",
+        "name": "Violet",
+        "species": "Gorilla",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 1",
+        "catchphrase": "sweetie"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/24/Vivian_NH.png/150px-Vivian_NH.png",
+        "name": "Vivian",
+        "species": "Wolf",
+        "gender": "Female",
+        "personality": "Snooty (A)",
+        "birthday": "January 26",
+        "catchphrase": "piffle"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/75/Vladimir_NH.png/150px-Vladimir_NH.png",
+        "name": "Vladimir",
+        "species": "Bear cub",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "August 2",
+        "catchphrase": "nyet"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/5/52/Wade_NH.png/150px-Wade_NH.png",
+        "name": "Wade",
+        "species": "Penguin",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "October 30",
+        "catchphrase": "so it goes"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/0/0f/Walker_NH.png/150px-Walker_NH.png",
+        "name": "Walker",
+        "species": "Dog",
+        "gender": "Male",
+        "personality": "Lazy (B)",
+        "birthday": "June 10",
+        "catchphrase": "wuh"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/bf/Walt_NH.png/150px-Walt_NH.png",
+        "name": "Walt",
+        "species": "Kangaroo",
+        "gender": "Male",
+        "personality": "Cranky (A)",
+        "birthday": "April 24",
+        "catchphrase": "pockets"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/21/Wart_Jr._NH.png/150px-Wart_Jr._NH.png",
+        "name": "Wart Jr.",
+        "species": "Frog",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "August 21",
+        "catchphrase": "grr-ribbit"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/66/Weber_NH.png/150px-Weber_NH.png",
+        "name": "Weber",
+        "species": "Duck",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "June 30",
+        "catchphrase": "quaa"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/2/23/Wendy_NH.png/150px-Wendy_NH.png",
+        "name": "Wendy",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "August 15",
+        "catchphrase": "lambkins"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/3/36/Whitney_NH.png/150px-Whitney_NH.png",
+        "name": "Whitney",
+        "species": "Wolf",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "September 17",
+        "catchphrase": "snappy"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/6/62/Willow_NH.png/150px-Willow_NH.png",
+        "name": "Willow",
+        "species": "Sheep",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "November 26",
+        "catchphrase": "bo peep"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/b/b8/Winnie_NH.png/150px-Winnie_NH.png",
+        "name": "Winnie",
+        "species": "Horse",
+        "gender": "Female",
+        "personality": "Peppy (B)",
+        "birthday": "January 31",
+        "catchphrase": "hay-OK"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/a/aa/Wolfgang_NH.png/150px-Wolfgang_NH.png",
+        "name": "Wolfgang",
+        "species": "Wolf",
+        "gender": "Male",
+        "personality": "Cranky (B)",
+        "birthday": "November 25",
+        "catchphrase": "snarrrl"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/ca/Yuka_NH.png/150px-Yuka_NH.png",
+        "name": "Yuka",
+        "species": "Koala",
+        "gender": "Female",
+        "personality": "Snooty (B)",
+        "birthday": "July 20",
+        "catchphrase": "tsk tsk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/c/c0/Zell_NH.png/150px-Zell_NH.png",
+        "name": "Zell",
+        "species": "Deer",
+        "gender": "Male",
+        "personality": "Smug (A)",
+        "birthday": "June 7",
+        "catchphrase": "pronk"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/0/0b/Zoe_amiibo.png",
+        "name": "Zoe",
+        "species": "Anteater",
+        "gender": "Female",
+        "personality": "Normal (B)",
+        "birthday": "February 10",
+        "catchphrase": "zoozooroo"
+    },
+    {
+        "poster": "https://dodo.ac/np/images/thumb/7/7f/Zucker_NH.png/150px-Zucker_NH.png",
+        "name": "Zucker",
+        "species": "Octopus",
+        "gender": "Male",
+        "personality": "Lazy (A)",
+        "birthday": "March 8",
+        "catchphrase": "bloop"
+    }
+]

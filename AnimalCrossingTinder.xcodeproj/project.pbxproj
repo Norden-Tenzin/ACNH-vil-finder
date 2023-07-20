@@ -11,6 +11,9 @@
 		65AA6F8A2A5A9339007AF3BD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AA6F892A5A9339007AF3BD /* ContentView.swift */; };
 		65AA6F8C2A5A9339007AF3BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */; };
 		65AA6F8F2A5A9339007AF3BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F8E2A5A9339007AF3BD /* Preview Assets.xcassets */; };
+		65AA6F962A5A936A007AF3BD /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F952A5A936A007AF3BD /* data.json */; };
+		65F8AE922A6574EE005954F8 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F8AE912A6574EE005954F8 /* Card.swift */; };
+		65F8AE962A659549005954F8 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F8AE952A659549005954F8 /* Helper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		65AA6F892A5A9339007AF3BD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65AA6F8E2A5A9339007AF3BD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65AA6F952A5A936A007AF3BD /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		65F8AE912A6574EE005954F8 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		65F8AE952A659549005954F8 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				65AA6F872A5A9339007AF3BD /* AnimalCrossingTinderApp.swift */,
 				65AA6F892A5A9339007AF3BD /* ContentView.swift */,
+				65F8AE912A6574EE005954F8 /* Card.swift */,
+				65F8AE952A659549005954F8 /* Helper.swift */,
+				65AA6F952A5A936A007AF3BD /* data.json */,
 				65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */,
 				65AA6F8D2A5A9339007AF3BD /* Preview Content */,
 			);
@@ -126,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65AA6F8F2A5A9339007AF3BD /* Preview Assets.xcassets in Resources */,
+				65AA6F962A5A936A007AF3BD /* data.json in Resources */,
 				65AA6F8C2A5A9339007AF3BD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +148,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				65AA6F8A2A5A9339007AF3BD /* ContentView.swift in Sources */,
+				65F8AE962A659549005954F8 /* Helper.swift in Sources */,
+				65F8AE922A6574EE005954F8 /* Card.swift in Sources */,
 				65AA6F882A5A9339007AF3BD /* AnimalCrossingTinderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
