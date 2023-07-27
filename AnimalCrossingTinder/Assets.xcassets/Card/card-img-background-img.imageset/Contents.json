@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "animal-crossing-new-horizons-official-wallpapers-nintendo-may-2020-desktop-1 1.jpg",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "animal-crossing-new-horizons-official-wallpapers-nintendo-may-2020-desktop-1.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "animal-crossing-new-horizons-official-wallpapers-nintendo-may-2020-desktop-1 2.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

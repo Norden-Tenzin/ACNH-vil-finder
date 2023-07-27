@@ -27,19 +27,48 @@ class VillagerData: Codable {
     }
 }
 
-struct VillagerCard: Identifiable, Equatable {
-    let id: UUID = UUID()
+class VillagerCard: ObservableObject, Identifiable, Equatable {
+    let id: UUID
     var villager: VillagerData
-    var degree: CGFloat = .zero
-    var value: CGFloat = .zero
+    @Published var degree: CGFloat
+    @Published var value: CGFloat
 
     static func == (lhs: VillagerCard, rhs: VillagerCard) -> Bool {
         return lhs.id == rhs.id
     }
 
-    mutating func update(degreeTo newDegree: CGFloat, valueTo newValue: CGFloat) {
+    init(villager: VillagerData) {
+        self.id = UUID()
+        self.villager = villager
+        self.degree = .zero
+        self.value = .zero
+    }
+
+    func update(degreeTo newDegree: CGFloat, valueTo newValue: CGFloat) {
         degree = newDegree
         value = newValue
+    }
+
+    func toString() -> String {
+        return "Degree: \(degree), Value: \(value)"
+    }
+
+    func addToDeck() {
+        degree = .zero
+        value = .zero
+    }
+
+    func removeFromDeck() {
+        degree = .zero
+        value = -500
+    }
+}
+
+class VillagerCards: ObservableObject {
+    @Published var villagers: [VillagerCard]
+
+    init(villagers: [VillagerCard]) {
+        self.villagers = villagers
     }
 }
 
@@ -74,17 +103,65 @@ func getJSONData (from file: String) -> Data? {
 
 func getJSON (from file: String) -> [VillagerCard] {
     do {
-        var res: [VillagerCard] = []
         let decoder = JSONDecoder()
         let villagerList = try decoder.decode([VillagerData].self, from: getJSONData(from: file)!)
-        villagerList.forEach { villagerData in
-            res.append(VillagerCard(villager: villagerData, degree: .zero, value: .zero))
-        }
-        return res
+        return villagerDataToVillagerCard(villagerList: villagerList)
     } catch {
         print("error: \(error)")
         return []
     }
+}
+
+func villagerDataToVillagerCard(villagerList: [VillagerData]) -> [VillagerCard] {
+    var res: [VillagerCard] = []
+    villagerList.forEach { villagerData in
+        res.append(VillagerCard(villager: villagerData))
+    }
+    return res
+}
+
+func writeJSON (to file: String, villagers data: [VillagerCard]) -> Void {
+    var jsonData: [VillagerData] = []
+    for villager in data {
+        jsonData.append(villager.villager)
+    }
+    do {
+        let fileURL = try FileManager.default
+            .url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
+            .appendingPathComponent("\(file).json")
+        let encodedData = try JSONEncoder().encode(jsonData)
+        try encodedData.write(to: fileURL)
+    } catch {
+        print("error: \(error)")
+    }
+}
+
+func readJSON (from file: String, to data: VillagerCards) -> [VillagerData] {
+    do {
+        let fileURL = try FileManager.default
+            .url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
+            .appendingPathComponent("\(file).json")
+        return try JSONDecoder().decode([VillagerData].self, from: Data(contentsOf: fileURL))
+    } catch {
+        print("error: \(error)")
+        return []
+    }
+}
+
+func getFilePath (of fileName: String) -> URL? {
+    do {
+        let fileURL = try FileManager.default
+            .url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
+            .appendingPathComponent(fileName)
+        return fileURL
+    } catch {
+        print("error: \(error)")
+        return nil
+    }
+}
+
+func doesFileExist(at fileName: String) -> Bool? {
+    return FileManager.default.fileExists(atPath: getFilePath(of: fileName)?.path ?? "")
 }
 
 func getJSONTest (from file: String, count num: Int) -> [VillagerCard] {
@@ -93,11 +170,19 @@ func getJSONTest (from file: String, count num: Int) -> [VillagerCard] {
         let decoder = JSONDecoder()
         let villagerList = try decoder.decode([VillagerData].self, from: getJSONData(from: file)!)
         villagerList.forEach { villagerData in
-            res.append(VillagerCard(villager: villagerData, degree: .zero, value: .zero))
+            res.append(VillagerCard(villager: villagerData))
         }
         return Array(res[0 ..< 5])
     } catch {
         print("error: \(error)")
         return []
+    }
+}
+
+func getGenderSymbol(gender: String) -> String {
+    if gender == "Male" {
+        return "♂"
+    } else {
+        return "♀"
     }
 }

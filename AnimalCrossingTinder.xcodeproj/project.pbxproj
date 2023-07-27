@@ -12,6 +12,15 @@
 		65AA6F8C2A5A9339007AF3BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */; };
 		65AA6F8F2A5A9339007AF3BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F8E2A5A9339007AF3BD /* Preview Assets.xcassets */; };
 		65AA6F962A5A936A007AF3BD /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 65AA6F952A5A936A007AF3BD /* data.json */; };
+		65C8FBE32A6E76040021C301 /* DummyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBE22A6E76040021C301 /* DummyCard.swift */; };
+		65C8FBE52A6E7E530021C301 /* GlassCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBE42A6E7E530021C301 /* GlassCard.swift */; };
+		65C8FBF12A6EBC270021C301 /* nintendoP_Humming-E_002pr.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65C8FBF02A6EBC260021C301 /* nintendoP_Humming-E_002pr.otf */; };
+		65C8FBF32A6EBDB10021C301 /* Arial Rounded Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65C8FBF22A6EBDB00021C301 /* Arial Rounded Bold.ttf */; };
+		65C8FBF72A6FB2C50021C301 /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBF62A6FB2C50021C301 /* CustomTabBarView.swift */; };
+		65C8FBF92A6FC28F0021C301 /* CustomTabBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBF82A6FC28F0021C301 /* CustomTabBarContainerView.swift */; };
+		65C8FBFB2A6FE3990021C301 /* TabBarItemsPreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBFA2A6FE3990021C301 /* TabBarItemsPreferenceKey.swift */; };
+		65C8FBFD2A7001AF0021C301 /* OldCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C8FBFC2A7001AF0021C301 /* OldCode.swift */; };
+		65DABE2B2A726D8B008F11FD /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DABE2A2A726D8B008F11FD /* SplashView.swift */; };
 		65F8AE922A6574EE005954F8 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F8AE912A6574EE005954F8 /* Card.swift */; };
 		65F8AE962A659549005954F8 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F8AE952A659549005954F8 /* Helper.swift */; };
 /* End PBXBuildFile section */
@@ -23,6 +32,16 @@
 		65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65AA6F8E2A5A9339007AF3BD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		65AA6F952A5A936A007AF3BD /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		65C8FBE22A6E76040021C301 /* DummyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyCard.swift; sourceTree = "<group>"; };
+		65C8FBE42A6E7E530021C301 /* GlassCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassCard.swift; sourceTree = "<group>"; };
+		65C8FBE92A6EA4B00021C301 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		65C8FBF02A6EBC260021C301 /* nintendoP_Humming-E_002pr.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nintendoP_Humming-E_002pr.otf"; sourceTree = "<group>"; };
+		65C8FBF22A6EBDB00021C301 /* Arial Rounded Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Arial Rounded Bold.ttf"; sourceTree = "<group>"; };
+		65C8FBF62A6FB2C50021C301 /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
+		65C8FBF82A6FC28F0021C301 /* CustomTabBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarContainerView.swift; sourceTree = "<group>"; };
+		65C8FBFA2A6FE3990021C301 /* TabBarItemsPreferenceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItemsPreferenceKey.swift; sourceTree = "<group>"; };
+		65C8FBFC2A7001AF0021C301 /* OldCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OldCode.swift; sourceTree = "<group>"; };
+		65DABE2A2A726D8B008F11FD /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		65F8AE912A6574EE005954F8 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		65F8AE952A659549005954F8 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,10 +76,19 @@
 		65AA6F862A5A9339007AF3BD /* AnimalCrossingTinder */ = {
 			isa = PBXGroup;
 			children = (
+				65C8FBE92A6EA4B00021C301 /* Info.plist */,
+				65C8FBE62A6EA4450021C301 /* Font */,
 				65AA6F872A5A9339007AF3BD /* AnimalCrossingTinderApp.swift */,
+				65DABE2A2A726D8B008F11FD /* SplashView.swift */,
 				65AA6F892A5A9339007AF3BD /* ContentView.swift */,
+				65C8FBF62A6FB2C50021C301 /* CustomTabBarView.swift */,
+				65C8FBF82A6FC28F0021C301 /* CustomTabBarContainerView.swift */,
+				65C8FBFA2A6FE3990021C301 /* TabBarItemsPreferenceKey.swift */,
 				65F8AE912A6574EE005954F8 /* Card.swift */,
+				65C8FBE42A6E7E530021C301 /* GlassCard.swift */,
+				65C8FBE22A6E76040021C301 /* DummyCard.swift */,
 				65F8AE952A659549005954F8 /* Helper.swift */,
+				65C8FBFC2A7001AF0021C301 /* OldCode.swift */,
 				65AA6F952A5A936A007AF3BD /* data.json */,
 				65AA6F8B2A5A9339007AF3BD /* Assets.xcassets */,
 				65AA6F8D2A5A9339007AF3BD /* Preview Content */,
@@ -74,6 +102,15 @@
 				65AA6F8E2A5A9339007AF3BD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		65C8FBE62A6EA4450021C301 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				65C8FBF02A6EBC260021C301 /* nintendoP_Humming-E_002pr.otf */,
+				65C8FBF22A6EBDB00021C301 /* Arial Rounded Bold.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,7 +171,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65C8FBF12A6EBC270021C301 /* nintendoP_Humming-E_002pr.otf in Resources */,
 				65AA6F8F2A5A9339007AF3BD /* Preview Assets.xcassets in Resources */,
+				65C8FBF32A6EBDB10021C301 /* Arial Rounded Bold.ttf in Resources */,
 				65AA6F962A5A936A007AF3BD /* data.json in Resources */,
 				65AA6F8C2A5A9339007AF3BD /* Assets.xcassets in Resources */,
 			);
@@ -147,10 +186,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65C8FBE52A6E7E530021C301 /* GlassCard.swift in Sources */,
+				65DABE2B2A726D8B008F11FD /* SplashView.swift in Sources */,
+				65C8FBE32A6E76040021C301 /* DummyCard.swift in Sources */,
+				65C8FBF72A6FB2C50021C301 /* CustomTabBarView.swift in Sources */,
+				65C8FBF92A6FC28F0021C301 /* CustomTabBarContainerView.swift in Sources */,
 				65AA6F8A2A5A9339007AF3BD /* ContentView.swift in Sources */,
 				65F8AE962A659549005954F8 /* Helper.swift in Sources */,
 				65F8AE922A6574EE005954F8 /* Card.swift in Sources */,
 				65AA6F882A5A9339007AF3BD /* AnimalCrossingTinderApp.swift in Sources */,
+				65C8FBFB2A6FE3990021C301 /* TabBarItemsPreferenceKey.swift in Sources */,
+				65C8FBFD2A7001AF0021C301 /* OldCode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +328,8 @@
 				DEVELOPMENT_TEAM = D7UAPTYYWC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AnimalCrossingTinder/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -311,6 +359,8 @@
 				DEVELOPMENT_TEAM = D7UAPTYYWC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AnimalCrossingTinder/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
